@@ -1,0 +1,98 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.header, .footer {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.header .logo {
+  float: left;
+}
+
+.header .company-details {
+  float: right;
+  text-align: right;
+}
+
+.clear {
+  clear: both;
+}
+
+.main {
+  margin-top: 20px;
+  border: 1px solid black; /* Adiciona borda à seção de pedido/orçamento */
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.order-form {
+  border: 1px solid black; /* Adiciona borda à seção de pedido/orçamento */
+  padding: 1rem; /* Adiciona padding interno de 4rem */
+}
+
+
+.main table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  border-radius: 15px;
+}
+
+.main table, .main th, .main td, .main table{
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
+.main th, .main td {
+  padding: 8px;
+  text-align: left;
+  border-radius: 15px;
+}
+
+.client-details, .footer {
+  border: 1px solid black; /* Adiciona borda à seção de dados do cliente e valor final */
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+}
+
+.client-details {
+  margin-top: 20px;
+}
+
+.footer {
+  margin-top: 20px;
+}
+
+.header-info {
+  border: 1px solid black; /* Borda preta */
+  border-radius: 15px; /* Bordas arredondadas */
+  padding: 1rem; /* Padding opcional para espaçamento interno */
+  display: flex;
+  justify-content: space-between; /* Espaça itens para as extremidades */
+  align-items: center; /* Alinha itens verticalmente ao centro */
+}
+
+.options {
+  display: flex;
+  gap: 1rem; /* Espaço entre os checkboxes */
+}
+
+.date {
+  margin: 0; /* Remove margens padrão do <p> */
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  .no-print-produto {
+    margin: none !important;
+    border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  }
+}
+
