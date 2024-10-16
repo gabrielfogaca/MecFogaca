@@ -1,4 +1,4 @@
-###O Website foi desenvolvivo para a Mecanica Fogaça.
+## O Website foi desenvolvivo para a Mecanica Fogaça.
 
 Possui as seguintes funcionalidades:
 
@@ -8,32 +8,32 @@ Possui as seguintes funcionalidades:
 -Cadastro, edição e exclusão Orçamentos;<br>
 -Fechamento do Mês.<br>
 
-##Inicio/Login:
+## Inicio/Login:
 
 user@mail.com/000000
 
 <img src="src/Images/Inicio.gif" alt="Texto Alternativo">
 
-##Clientes:
+## Clientes:
 
 <img src="src/Images/cliente.gif" alt="Texto Alternativo">
 
-##Peças:
+## Peças:
 
 <img src="src/Images/pecas.gif" alt="Texto Alternativo">
 
-##Despesas:
+## Despesas:
 
 <img src="src/Images/Despesas.gif" alt="Texto Alternativo">
 
-##Orçamentos:
+## Orçamentos:
 
 <img src="src/Images/orcamento.gif" alt="Texto Alternativo">
 
-É possivel Alterar o orçamento para que ele vire um Pedido. Ao virar um pedido ele sera mostrado no Fechamento do Mês
+### É possivel Alterar o orçamento para que ele vire um Pedido. Ao virar um pedido ele sera mostrado no Fechamento do Mês
 
 <img src="src/Images/orcamento2.gif" alt="Texto Alternativo">
 
-##Fechamento do Mês:
+## Fechamento do Mês:
 
 <img src="src/Images/Fechamento.gif" alt="Texto Alternativo">
