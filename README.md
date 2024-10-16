@@ -1,32 +1,39 @@
-O Website foi desenvolvivo para a Mecanica Fogaça.
+###O Website foi desenvolvivo para a Mecanica Fogaça.
 
 Possui as seguintes funcionalidades:
--Cadastro, edição e exclusão de Clientes;
--Cadastro, edição e exclusão de Peças;
--Cadastro, edição e exclusão de Despesas;
--Cadastro, edição e exclusão Orçamentos;
--Fechamento do Mês.
 
-#Inicio:
+-Cadastro, edição e exclusão de Clientes;<br>
+-Cadastro, edição e exclusão de Peças;<br>
+-Cadastro, edição e exclusão de Despesas;<br>
+-Cadastro, edição e exclusão Orçamentos;<br>
+-Fechamento do Mês.<br>
 
-<img src="src/Images/inicio.jpg" alt="Texto Alternativo">
+##Inicio/Login:
 
-#Clientes:
+user@mail.com/000000
 
-<img src="src/Images/Clientes.gif" alt="Texto Alternativo">
+<img src="src/Images/Inicio.gif" alt="Texto Alternativo">
 
-#Peças:
+##Clientes:
 
-<img src="" alt="Texto Alternativo">
+<img src="src/Images/cliente.gif" alt="Texto Alternativo">
 
-#Despesas:
+##Peças:
 
-<img src="" alt="Texto Alternativo">
+<img src="src/Images/pecas.gif" alt="Texto Alternativo">
 
-#Orçamentos:
+##Despesas:
 
-<img src="" alt="Texto Alternativo">
+<img src="src/Images/Despesas.gif" alt="Texto Alternativo">
 
-#Fechamento do Mês:
+##Orçamentos:
 
-<img src="" alt="Texto Alternativo">
+<img src="src/Images/orcamento.gif" alt="Texto Alternativo">
+
+É possivel Alterar o orçamento para que ele vire um Pedido. Ao virar um pedido ele sera mostrado no Fechamento do Mês
+
+<img src="src/Images/orcamento2.gif" alt="Texto Alternativo">
+
+##Fechamento do Mês:
+
+<img src="src/Images/Fechamento.gif" alt="Texto Alternativo">
