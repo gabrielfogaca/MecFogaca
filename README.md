@@ -1,7 +1,6 @@
 ## O Website foi desenvolvivo para a Mecanica Fogaça.
 
-Possui as seguintes funcionalidades:
-
+### Possui as seguintes funcionalidades:
 -Cadastro, edição e exclusão de Clientes;<br>
 -Cadastro, edição e exclusão de Peças;<br>
 -Cadastro, edição e exclusão de Despesas;<br>
@@ -10,7 +9,8 @@ Possui as seguintes funcionalidades:
 
 ## Inicio/Login:
 
-user@mail.com/000000
+Login: user@mail.com 
+Password: 000000
 
 <img src="src/Images/Inicio.gif" alt="Texto Alternativo">
 
